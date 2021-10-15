@@ -1,0 +1,4 @@
+__pycache__/
+venv/
+pedestrians.mp4
+Yolo/yolo.weights
